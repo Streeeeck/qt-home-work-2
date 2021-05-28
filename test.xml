@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+	<item>
+		<id>1</id>
+		<name>Первый</name>
+		<type>100</type>
+	</item>
+	<item >
+		<id>2</id>
+		<name>Второй</name>
+		<type>10</type>
+	</item>
+	<item >
+		<id>3</id>
+		<name>Последний</name>
+		<type>21</type>
+	</item>
+	<track>
+		<first>1</first>
+		<last>2</last>
+	</track>
+		<track>
+		<first>1</first>
+		<last>3</last>
+	</track>
+		<track>
+		<first>1</first>
+		<last>4</last>
+	</track>
+</items>
